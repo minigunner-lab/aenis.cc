@@ -1,2 +1,2 @@
 # aenis.cc
-aenis.cc
+aenis.cc is a cutting-edge tool designed to help players with impaired eyesight enhance their in-game accuracy and reaction times. By optimizing visual cues and providing a clearer view of the battlefield, aenis.cc allows players to easily spot opponents, improving their aim and overall performance. Whether you’re aiming for better precision or simply trying to react faster, aenis.cc bridges the gap, making gaming more accessible and enjoyable for everyone.
